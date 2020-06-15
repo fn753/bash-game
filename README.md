@@ -2,7 +2,7 @@
 Find your hat! Find the right path without falling into a hole.
 
 ## Getting started 
-1. Install Node.js and strip-ansi on your computer (e.g. `sudo apt install node.js npm` and `npm install strip-ansi`).
+1. Install Node.js on your computer.
 2. Download the directory bash-game.
 3. Type ```node main.js``` in the directory.
 4. Play!
@@ -23,6 +23,4 @@ The maze layout changes at every start. An example looks like this:
 ░O░░░
 Which way?
 ```
-Now try to move the `*` to the `^` to win the game.  
-In the example you could e.g. press `d`, `d`, `r`, `r`, `r` or also `r`, `d`, `r`, `d`, `r`.  
-You would e.g. fail with `r`, `r`, `r`, `d`, `d`.
+Now try to move the `*` to the `^` to win the game.
