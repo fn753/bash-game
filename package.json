@@ -1,0 +1,23 @@
+{
+  "name": "bash-game",
+  "version": "1.0.1",
+  "description": "little game for bash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fn753/bash-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fn753/bash-game/issues"
+  },
+  "homepage": "https://github.com/fn753/bash-game#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^1.42.0"
+   }
+}
